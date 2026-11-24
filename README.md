@@ -1,45 +1,42 @@
 <div align="center">
-  <h1>Hi there, I'm Ajis Mohamed 👋</h1>
-  <h3>Tech Enthusiast | Machine Learning & Web Developer</h3>
-  <p>Exploring new ways to build, automate, and create impactful software solutions.</p>
+  <h1>Ajis Mohamed</h1>
+  <p><strong>MERN Stack Developer</strong> · Full-Stack Web Applications &amp; Intelligent Systems</p>
+  <p>Building fast, scalable interfaces and reliable backend APIs with MongoDB, Express, React, and Node.js.</p>
 
-  <a href="https://linkedin.com/in/aziz-mohamed03" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aziz-mohamed03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ajis-mohamed?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-27-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="https://github.com/ajis-mohamed?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-28-111827?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Repositories" />
   </a>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### Core Stack
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Adaptive FDIA Detection](https://github.com/ajis-mohamed/ADAPTIVE-FRAUDULENT-DETECTING-FDIA-IN-FINANCIAL-TRANSACTIONS)** | Detects False Data Injection Attacks (FDIA) in financial transactions using adaptive machine learning to spot evolving fraud patterns. | `Python` `Machine Learning` |
-| **[Portfolio Website](https://github.com/ajis-mohamed/portfolio)** | Personal developer portfolio showcasing projects, skills, and experience. | `JavaScript` `HTML/CSS` |
-| **[Expense Tracker](https://github.com/ajis-mohamed/Expense-Tracker)** | Clean web application for tracking daily expenses and managing personal budgets. | `HTML` `CSS` `JavaScript` |
-| **[FitFusion](https://github.com/ajis-mohamed/fitness-project-fitfusion)** | Modern, responsive fitness and wellness web interface. | `CSS` `HTML` |
-| **[Nostra Project](https://github.com/ajis-mohamed/nostra-project)** | E-commerce storefront interface with responsive product layouts. | `HTML` `CSS` |
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` `JavaScript (ES6+)` `HTML5` `CSS3` |
+| **Backend &amp; Runtime** | `Node.js` `Express.js` `REST APIs` |
+| **Database &amp; ML** | `MongoDB` `Python` `Machine Learning` |
+| **Workflow &amp; Tools** | `Git` `GitHub` |
 
 ---
 
-### 📊 GitHub Activity
+### Selected Work
+
+* **[Adaptive FDIA Detection](https://github.com/ajis-mohamed/ADAPTIVE-FRAUDULENT-DETECTING-FDIA-IN-FINANCIAL-TRANSACTIONS)** — Machine learning system designed to identify False Data Injection Attacks and evolving fraud patterns in financial transaction data (`Python`, `Machine Learning`).
+* **[Portfolio Website](https://github.com/ajis-mohamed/portfolio)** — Personal developer portfolio presenting projects, technical capabilities, and web craftsmanship (`JavaScript`, `HTML5`, `CSS3`).
+* **[Expense Tracker](https://github.com/ajis-mohamed/Expense-Tracker)** — Practical personal finance web app for logging daily transactions and monitoring budgets (`JavaScript`, `HTML5`, `CSS3`).
+* **[FitFusion](https://github.com/ajis-mohamed/fitness-project-fitfusion)** — Responsive fitness and wellness web experience focused on clean layout hierarchy (`HTML5`, `CSS3`).
+* **[Nostra Project](https://github.com/ajis-mohamed/nostra-project)** — Responsive e-commerce storefront UI built with structured product grids (`HTML5`, `CSS3`).
+
+---
+
+### GitHub Overview
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ajis-mohamed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajis-mohamed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ajis-mohamed&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="Ajis Mohamed GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajis-mohamed&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" />
 </div>
