@@ -1,42 +1,43 @@
-<div align="center">
-  <h1>Ajis Mohamed</h1>
-  <p><strong>MERN Stack Developer</strong> · Full-Stack Web Applications &amp; Intelligent Systems</p>
-  <p>Building fast, scalable interfaces and reliable backend APIs with MongoDB, Express, React, and Node.js.</p>
+### 👋 About Me:
 
+I'm a MERN Stack Developer working with full-stack web applications and intelligent systems. Focused on building fast, scalable interfaces and reliable backend APIs with MongoDB, Express, React, and Node.js.
+
+### 🌐 Socials:
+
+<p align="left">
   <a href="https://www.linkedin.com/in/aziz-mohamed03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ajis-mohamed?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-28-111827?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</p>
 
----
+### 💻 Tech Stack:
 
-### Core Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | `React` `JavaScript (ES6+)` `HTML5` `CSS3` |
-| **Backend &amp; Runtime** | `Node.js` `Express.js` `REST APIs` |
-| **Database &amp; ML** | `MongoDB` `Python` `Machine Learning` |
-| **Workflow &amp; Tools** | `Git` `GitHub` |
+### 📊 GitHub Stats:
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajis-mohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ajis Mohamed's GitHub Stats" />
+</p>
 
-### Selected Work
+### 🚀 Selected Work:
 
-* **[Adaptive FDIA Detection](https://github.com/ajis-mohamed/ADAPTIVE-FRAUDULENT-DETECTING-FDIA-IN-FINANCIAL-TRANSACTIONS)** — Machine learning system designed to identify False Data Injection Attacks and evolving fraud patterns in financial transaction data (`Python`, `Machine Learning`).
-* **[Portfolio Website](https://github.com/ajis-mohamed/portfolio)** — Personal developer portfolio presenting projects, technical capabilities, and web craftsmanship (`JavaScript`, `HTML5`, `CSS3`).
-* **[Expense Tracker](https://github.com/ajis-mohamed/Expense-Tracker)** — Practical personal finance web app for logging daily transactions and monitoring budgets (`JavaScript`, `HTML5`, `CSS3`).
-* **[FitFusion](https://github.com/ajis-mohamed/fitness-project-fitfusion)** — Responsive fitness and wellness web experience focused on clean layout hierarchy (`HTML5`, `CSS3`).
-* **[Nostra Project](https://github.com/ajis-mohamed/nostra-project)** — Responsive e-commerce storefront UI built with structured product grids (`HTML5`, `CSS3`).
-
----
-
-### GitHub Overview
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ajis-mohamed&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="Ajis Mohamed GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajis-mohamed&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" />
-</div>
+* **[Adaptive FDIA Detection](https://github.com/ajis-mohamed/ADAPTIVE-FRAUDULENT-DETECTING-FDIA-IN-FINANCIAL-TRANSACTIONS)** — Machine learning system designed to identify False Data Injection Attacks and evolving fraud patterns in financial transaction data.
+* **[Portfolio Website](https://github.com/ajis-mohamed/portfolio)** — Personal developer portfolio presenting projects, technical capabilities, and web craftsmanship.
+* **[Expense Tracker](https://github.com/ajis-mohamed/Expense-Tracker)** — Practical personal finance web app for logging daily transactions and monitoring budgets.
+* **[FitFusion](https://github.com/ajis-mohamed/fitness-project-fitfusion)** — Responsive fitness and wellness web experience focused on clean layout hierarchy.
+* **[Nostra Project](https://github.com/ajis-mohamed/nostra-project)** — Responsive e-commerce storefront UI built with structured product grids.
